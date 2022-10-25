@@ -46,6 +46,65 @@ function Theme() {
               folder on the CMD (or terminal) and enter the following command to
               initialize a package.json file
             </p>
+            <h1>MERN Stack Components</h1>
+            <p>
+              There are four components of the MERN stack. Let’s discuss each of
+              them one by one.
+              <li>
+                The first component is MongoDB, which is a NoSQL database
+                management system.
+              </li>
+              <li>
+                The second MERN stack component is ExpressJS. It is a backend
+                web application framework for NodeJS.
+              </li>
+              <li>
+                The third component is ReactJS, a JavaScript library for
+                developing UIs based on UI components.{" "}
+              </li>
+              <li>
+                The final component of the MERN stack is NodeJS. It is a JS
+                runtime environment, i.e., it enables running JavaScript code
+                outside the browser.{" "}
+              </li>
+            </p>
+            <h3>Let’s learn more about these MERN Stack components:</h3>
+            <li>MongoDB</li>
+            <p>
+              MongoDB is a NoSQL DBMS where data is stored in the form of
+              documents having key-value pairs similar to JSON objects. MongoDB
+              enables users to create databases, schemas, and tables. It offers
+              the Mongo shell that provides a JS interface for deleting,
+              querying, and updating the records.
+            </p>
+            <li>
+              ExpressJS
+              <p>
+                ExpressJS is a NodeJS framework that simplifies writing the
+                backend code. It saves you from creating multiple Node modules.
+                For keeping the code precise, ExpressJS offers a range of
+                middleware.
+              </p>
+            </li>
+            <li>
+              ReactJS
+              <p>
+                ReactJS is a JS library that allows the development of user
+                interfaces for mobile apps and SPAs. It allows you to code
+                JavaScript and develop UI components. The JS library uses
+                virtual DOM for doing everything.
+              </p>
+            </li>
+            <li>
+              NodeJS
+              <p>
+                NodeJS is an open-source JavaScript runtime environment that
+                allows users to run code on the server. It comes with the node
+                package manager or npm, enabling users to select from a wide
+                selection of node modules or packages. Being developed on the
+                Chrome JavaScript Engine enables Node to execute code faster.
+              </p>
+            </li>
           </div>
           <p></p>
           <div className="icons">
